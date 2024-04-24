@@ -20,5 +20,6 @@ export const getServerSideUser = async (
     user: User | null
   }
 
+  
   return { user }
 }
